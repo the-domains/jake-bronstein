@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Jake Bronstein]]></title>
         <description><![CDATA[Jake Bronstein]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jake-bronstein/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 18:10:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 18:16:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jake-bronstein/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f961e3c5-4072-4da7-a353-151f92c705ed.jpg">]]></description>
+            <link>https://thegrid.ai/jake-bronstein/30e6b902-308c-48c4-bc4e-3e18bfa34146/index.html</link>
+            <guid isPermaLink="false">30e6b902-308c-48c4-bc4e-3e18bfa34146</guid>
+            <pubDate>Wed, 27 Jan 2016 18:16:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5347cd9-9170-4e6b-9880-c5213c78aebb.jpg">]]></description>
-            <link>undefinedb348369c-c09a-4151-afed-29e1cba47559/index.html</link>
+            <link>https://thegrid.ai/jake-bronstein/b348369c-c09a-4151-afed-29e1cba47559/index.html</link>
             <guid isPermaLink="false">b348369c-c09a-4151-afed-29e1cba47559</guid>
             <pubDate>Wed, 27 Jan 2016 18:10:54 GMT</pubDate>
         </item>
